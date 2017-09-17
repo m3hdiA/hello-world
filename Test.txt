@@ -3,3 +3,5 @@ first commit
 edited in branch02
 
 second edit in branch02
+
+changes after stash
